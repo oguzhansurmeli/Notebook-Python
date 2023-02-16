@@ -1,2 +1,2 @@
 # Notebook-Python
-Python hakkında notlarım
+Python hakkında notlarım.
